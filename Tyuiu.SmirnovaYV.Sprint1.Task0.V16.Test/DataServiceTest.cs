@@ -1,4 +1,4 @@
-﻿using Tyuiu.SmirnovaYV.Sprint1.Task0.V16.Lib.ver2;
+﻿using Tyuiu.SmirnovaYV.Sprint1.Task0.V16.Lib;
 namespace Tyuiu.SmirnovaYV.Sprint1.Task0.V16.Test
 {
     [TestClass]
